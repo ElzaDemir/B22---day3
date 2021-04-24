@@ -10,4 +10,4 @@ Now our work will continue locally
 1. add a new file called note.txt
 2. commited the changes to local repo
 3. we want to change to be reflected in remote repository
-4. Observe it has been added in you repository under GitGub.com
+4. Observe it has been added in you repository push origin button under GitGub.com
